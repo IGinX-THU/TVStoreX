@@ -16,4 +16,4 @@ TVStoreX won the Gold medal in the Geneva International Exhibition of Inventions
 
 <img src="https://github.com/IGinX-THU/TVStoreX/blob/main/docs/award.jpg" width = "210" height = "297" alt="the Gold Medal for TVStoreX" align=center />
 
-For further usage information on the system, please refer to the [Quick Start]([https://github.com/IGinX-THU/TVStoreX](https://github.com/IGinX-THU/TVStoreX/blob/main/docs/quickStart.md)https://github.com/IGinX-THU/TVStoreX/blob/main/docs/quickStart.md) of TVStore and [that](https://github.com/thulab/IginX) of IginX.
+For further usage information on the system, please refer to the [Quick Start](https://github.com/IGinX-THU/TVStoreX/blob/main/docs/quickStart.md) of TVStore and [that](https://github.com/thulab/IginX) of IginX.
