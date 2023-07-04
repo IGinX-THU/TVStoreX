@@ -12,7 +12,7 @@ TVStore is extensively evaluated using [TVStore-benchmark](https://github.com/th
 
 ## Awards
 
-TVStoreX won the [Gold medal in the Geneva International Exhibition of Inventions](https://github.com/IGinX-THU/TVStoreX/blob/main/docs/award.jpg).
+**TVStoreX won the [Gold medal in the Geneva International Exhibition of Inventions](https://github.com/IGinX-THU/TVStoreX/blob/main/docs/award.jpg).**
 
 <img src="https://github.com/IGinX-THU/TVStoreX/blob/main/docs/award.jpg" width = "210" height = "297" alt="The Gold Medal for TVStoreX" align=center />
 
